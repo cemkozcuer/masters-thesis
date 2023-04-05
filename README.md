@@ -17,7 +17,7 @@ _Online social media enables immediate reporting of disaster events. Automated a
 
 ## Thesis Slides
 
-[To be found here.]()
+[To be found here.](https://github.com/cemkozcuer/masters-thesis/blob/main/Cem_Kozcuer_Masters_Thesis_Slides.pdf)
 
 ### License
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
